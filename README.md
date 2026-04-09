@@ -46,7 +46,7 @@ const siddharth = {
 | Platform | Rank | Rating | Achievements |
 |----------|------|--------|--------------|
 | 🟣 **Codeforces** | Specialist | **1573** | Ranked 628/5000+ in Round 1070 |
-| 🟡 **LeetCode** | Active | Solving | 500+ Problems |
+| 🟡 **LeetCode** | Active | Solving | 150+ Problems |
 | 🔵 **GitHub** | Contributor | ⭐ | Open Source Enthusiast |
 
 </div>
